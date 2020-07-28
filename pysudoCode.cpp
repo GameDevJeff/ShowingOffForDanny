@@ -1,5 +1,5 @@
 
-// Simple C++ program to display "Hello World" 
+// Simple C++ program for first time programmer, "Hello World" 
   
 // Header file for input output functions 
 #include<iostream>  
